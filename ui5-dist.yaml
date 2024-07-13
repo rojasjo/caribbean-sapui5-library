@@ -1,0 +1,16 @@
+specVersion: "3.0"
+metadata:
+  name: ch.joserojas.caribbean
+type: library
+resources:
+  configuration:
+    paths:
+      src: dist/resources/ch/joserojas/caribbean/
+      test: dist/test-resources/ch/joserojas/caribbean/
+framework:
+  name: SAPUI5
+  version: 1.126.0
+  libraries:
+    - name: sap.ui.core
+    - name: themelib_sap_horizon
+    - name: themelib_sap_fiori_3

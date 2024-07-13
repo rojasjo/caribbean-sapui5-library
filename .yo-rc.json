@@ -1,0 +1,30 @@
+{
+  "generator-ui5-library": {
+    "namespace": "ch.joserojas.caribbean",
+    "framework": "SAPUI5",
+    "frameworkVersion": "1.126.0",
+    "flat": false,
+    "author": "José Rojas",
+    "initrepo": true,
+    "libId": "ch.joserojas.caribbean",
+    "libURI": "ch/joserojas/caribbean",
+    "libBasePath": "../../..",
+    "cdnDomain": "ui5.sap.com",
+    "defaultTheme": "sap_horizon",
+    "availableThemes": {
+      "sap_horizon": [
+        "sap_horizon",
+        "sap_horizon_dark",
+        "sap_horizon_hcw",
+        "sap_horizon_hcb"
+      ],
+      "sap_fiori_3": [
+        "sap_fiori_3",
+        "sap_fiori_3_dark",
+        "sap_fiori_3_hcw",
+        "sap_fiori_3_hcb"
+      ]
+    },
+    "setupCompleted": true
+  }
+}

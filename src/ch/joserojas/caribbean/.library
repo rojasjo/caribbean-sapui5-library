@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<library xmlns="http://www.sap.com/sap.ui.library.xsd">
+	<name>ch.joserojas.caribbean</name>
+	<vendor>José Rojas</vendor>
+	<version>${version}</version>
+	<copyright>${copyright}</copyright>
+	<title>ch.joserojas.caribbean</title>
+	<documentation>Some description about ch.joserojas.caribbean</documentation>
+	<dependencies>
+		<dependency>
+			<libraryName>sap.ui.core</libraryName>
+		</dependency>
+	</dependencies>
+</library>
